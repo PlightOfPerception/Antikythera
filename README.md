@@ -29,4 +29,4 @@ the left most column is the inner most ring.
 ```
 
 ## Solution Image
-![solution_picture](https://user-images.githubusercontent.com/61144046/158664620-33ae6797-3786-4dce-9d2c-3a2e22c1d529.jpg)
+<img src="https://user-images.githubusercontent.com/61144046/158664620-33ae6797-3786-4dce-9d2c-3a2e22c1d529.jpg" alt="Solution Image" width="550"/>
