@@ -1,5 +1,9 @@
 # Antikythera
-This program brute-forces a wooden puzzle designed to be reminiscent of the Antikythera mechanism, an ancient mechanical computer of Greek origin capable of accurately predicting astronomical phenomena. The device that inspired the puzzle is perhaps symbolic of the history of computer science as it is the first known instance of what can be defined as a "computer," however the puzzle itself consists of a single rule: "Turn the dials until each column of numbers sums to 42." Though this isn't a particularly engrossing task to engage in by hand, solving the problem in Haskell offered an opportunity to practice functional programming patterns.
+This program brute-forces a wooden puzzle designed to be reminiscent* of the Antikythera mechanism, an ancient mechanical computer of Greek origin capable of accurately predicting astronomical phenomena. The device that inspired the puzzle is perhaps symbolic of the history of computer science as it is the first known instance of what can be defined as a "computer," however the puzzle itself consists of a single rule: "Turn the dials until each column of numbers sums to 42." Though this isn't a particularly engrossing task to engage in by hand, solving the problem in Haskell offered an opportunity to practice functional programming patterns.
+
+###### * The sections of puzzle resemble the gears of the ancient Greek computer
+<img src="https://user-images.githubusercontent.com/61144046/158667528-d7e387fb-5b41-4ee9-88d2-c902b7303bbe.jpg" alt="Solution Image" width="550"/>
+
 
 ## Building
 Building requires The Glasgow Haskell Compiler. Run `make` inside the project directory to create a binary.
